@@ -2,18 +2,16 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Marvin+Gonzales....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MEGH....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   
-  <code>
-    <a href="https://www.linkedin.com/in/soymegh/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-    
+  <code><a href="https://www.linkedin.com/in/soymegh/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/soy_megh/" title="Instagram Profile"><img width="22" src="images/instagram.svg" > Instagram</a></code>
-
-  <code><a href="hhttps://github.com/soymegh" title="Github Profile"><img width="22" src="images/github.svg" > Github </a></code>
+  <code><a href="https://github.com/soymegh" title="Github Profile"><img width="22" src="images/github.svg" > Github </a></code>
+<br>
 
 <code><a href="https://www.credly.com/users/marvin-ezequiel-gonzales-hernandez/badges" title="Credly Profile"><img width="22" src="images/Creadle.svg" > Credly </a></code>
 
@@ -29,7 +27,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning how to build a website with <a href="https://soymegh.github.io/gh-react" >Vite + React</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/soymegh/soymegh/issues" title="Issues">Here</a>
   <br>
@@ -44,11 +42,10 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
@@ -92,15 +89,14 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/soymegh/RentApp" title="The RentApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soymegh&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/soymegh/techhub-api" title="TechHub Api"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soymegh&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/soymegh/gh-react" title="Vite + React "><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soymegh&repo=gh-react&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/soymegh/Practica.git" title="Practice"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soymegh&repo=Practica&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<!--
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/soymegh/RentApp" title="The RentApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soymegh&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/soymegh/techhub-api" title="TechHub Api"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soymegh&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/soymegh/Employee" title="Employee"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soymegh&repo=Employee&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/soymegh/TechHub" title="TechHub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soymegh&repo=TechHub&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
--->
-<br><br><br><br><br><br>
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/soymegh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
